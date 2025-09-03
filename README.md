@@ -121,7 +121,7 @@
 
 ### 💬 **Ask me about:** AI/ML Algorithms | Neural Networks | Flutter Development | Python | Cross-platform Solutions
 
-### 📧 **Reach out:** ehtiramullah786@gmail.com
+### 📧 **Reach out:** afsarprogrammer123@gmail.com
 
 ### ⚡ **Fun Fact:** I'm passionate about merging AI capabilities with intuitive mobile experiences!
 
