@@ -1,4 +1,4 @@
-# 🚀 Afsar Ali | AI/ML Engineer & Flutter Developer
+# 🚀 Afsar Ali | Software Engineer & Flutter Developer
 
 <div align="center">
   
@@ -92,16 +92,6 @@
 <tr>
 <td width="50%">
 
-### 🤖 **AI/ML Innovation**
-- **Advanced Neural Networks** for complex problem-solving
-- **Computer Vision** applications for real-world challenges
-- **NLP Solutions** for intelligent text processing
-- **MLOps Pipelines** for scalable model deployment
-- **Research-backed** approaches to emerging AI technologies
-
-</td>
-<td width="50%">
-
 ### 📱 **Flutter Excellence**
 - **Cross-platform** apps with native performance
 - **State-of-the-art** UI/UX implementations
@@ -119,7 +109,7 @@
 
 <div align="center">
 
-### 💬 **Ask me about:** AI/ML Algorithms | Neural Networks | Flutter Development | Python | Cross-platform Solutions
+### 💬 **Ask me about:** AI Basics Algorithms | Java | Flutter Development | Python | Cross-platform Solutions
 
 ### 📧 **Reach out:** afsarprogrammer123@gmail.com
 
